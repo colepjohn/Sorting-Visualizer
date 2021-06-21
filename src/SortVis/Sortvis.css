@@ -1,0 +1,33 @@
+body {
+    background-color: #1d2022;
+}
+
+.array-container {
+    position: relative;
+    margin: auto;
+    text-align: center;
+}
+
+.bars {
+    display: inline-block;
+    width: 2px;
+    margin-right: 1px;
+    background-color: rgb( 223, 121, 25 );
+}
+
+.nav-bar {
+    display: flex;
+    background-color: #474b4f;
+    padding: 3vh;
+    justify-content: center;
+    margin-bottom: 4vh;
+}
+
+#button {
+    background-color: rgb( 223, 121, 25 );
+    border-radius: 20px;
+    border-style: hidden;
+    margin-right: 3vw;
+    padding: 1vw;
+    font-size: large;
+}
